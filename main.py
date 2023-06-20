@@ -96,6 +96,7 @@ def analyze_pure_and_unpaywall_diff(pure, unpaywall):
         print('weird one')
 
 
+# this is probably the only function that will be helpful
 
 def make_unpaywall_request(doi):
     # https://api.unpaywall.org/v2/10.1038/nature12373?email=YOUR_EMAIL
